@@ -52,7 +52,7 @@
 </p>
 
 ## Release
-- [2025/x/x]🚀🚀🚀 We release DeepSeek-OCR, a model to investigate the role of vision encoders from an LLM-centric viewpoint.
+- [2025/10/20]🚀🚀🚀 We release DeepSeek-OCR, a model to investigate the role of vision encoders from an LLM-centric viewpoint.
 
 ## Contents
 - [Install](#install)
