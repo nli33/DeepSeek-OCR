@@ -52,6 +52,7 @@
 </p>
 
 ## Release
+- [2026/01/27]🚀🚀🚀🚀🚀🚀 We present [DeepSeek-OCR2](https://github.com/deepseek-ai/DeepSeek-OCR-2)
 - [2025/10/23]🚀🚀🚀 DeepSeek-OCR is now officially supported in upstream [vLLM](https://docs.vllm.ai/projects/recipes/en/latest/DeepSeek/DeepSeek-OCR.html#installing-vllm). Thanks to the [vLLM](https://github.com/vllm-project/vllm) team for their help.
 - [2025/10/20]🚀🚀🚀 We release DeepSeek-OCR, a model to investigate the role of vision encoders from an LLM-centric viewpoint.
 
